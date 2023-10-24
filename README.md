@@ -1,6 +1,6 @@
 # Neural_Networks_Intelligent_Systems_NTUA
 
-Projects for Neural Networks class ECE NTUA 2021-2022.
+Projects for Neural Networks and Intelligent Systems course, ECE NTUA 2021-2022.
 
 The following projects are included:
 
