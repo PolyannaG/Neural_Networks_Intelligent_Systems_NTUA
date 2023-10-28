@@ -10,5 +10,5 @@ The following projects are included:
   Sky Survey DR16 dataset.
   
 * Unsupervised learning:  
- In the first part, a movie recommendation system is implemented. Text preprocessing (stop-word removal, stemming, lemmatization etc.), TF-IDF vectorization, and the usage of word embeddings are explored.  In the second part, a topological and semantic representation of movies using self organizing maps (S0M) is created.
+ In the first part, a movie recommendation system is implemented. Text preprocessing (stop-word removal, stemming, lemmatization etc.), TF-IDF vectorization, and the usage of pre-trained word embeddings are explored.  In the second part, a topological and semantic representation of movies using self organizing maps (S0M) is created.
 
